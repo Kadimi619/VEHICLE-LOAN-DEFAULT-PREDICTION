@@ -11,6 +11,11 @@
 
 # Important  INSIGHTS
 
+##![1](https://user-images.githubusercontent.com/34785563/140985547-3f67f273-91cb-4881-800d-b80efa102ab7.jpg)
+
+##![2](https://user-images.githubusercontent.com/34785563/140985624-bb24a9e1-5410-49ff-8ece-d360cd11705f.jpg)
+
+
 ## Use of Statistical Tests ( 2-Sample T-test, Chi-Square Independence Test)
 
 -From 2-Sample T test, we observe few Secondary columns are insignificant. Again of course, banks can't afford to drop Secondary Account information, so we'll have to combine the Primary and Secondary Account information.
