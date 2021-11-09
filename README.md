@@ -11,6 +11,6 @@
 
 ## Screenshots
 
-![App Screenshot](6-XGBoost](https://user-images.githubusercontent.com/34785563/140956690-e406fe9d-d6f4-48a9-b014-d572bfdae55c.png)
+![XG-BOOST](https://user-images.githubusercontent.com/34785563/140956690-e406fe9d-d6f4-48a9-b014-d572bfdae55c.png)
 
 
