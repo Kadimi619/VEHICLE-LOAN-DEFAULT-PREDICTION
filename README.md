@@ -9,8 +9,15 @@
 ## Important  INSIGHTS
 
 
-## Screenshots
+## Confusion Matrices 
+
+# XG-BOOST Model
 
 ![XG-BOOST](https://user-images.githubusercontent.com/34785563/140956690-e406fe9d-d6f4-48a9-b014-d572bfdae55c.png)
+
+# Light Gradient Boost Model
+
+![5-Light Gradient boost](https://user-images.githubusercontent.com/34785563/140979563-0737b50a-c2b0-4f52-8757-a0c62e5784a2.png)
+
 
 
