@@ -1,6 +1,9 @@
 
 # Vehicle Loan Default Prediction
 
+![1](https://user-images.githubusercontent.com/34785563/140984073-f8151b29-5838-4dbb-b602-36887e83beca.jpg)
+
+
 •	Financial institutions sustain huge number of losses due to the default of vehicle loans. This has led to the tightening up of vehicle loan policies and increased vehicle loan rejection rates. So, this requires a study to estimate the parameters of vehicle loan default.
 * The objective of this project is to predict whether it will be Payment default in the   EMI on Vehicle Loan on due date or not using the Loan Default Prediction Dataset.
 
