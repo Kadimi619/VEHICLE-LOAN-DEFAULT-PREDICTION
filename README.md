@@ -11,19 +11,34 @@
 
 # Important  INSIGHTS
 
-##![1](https://user-images.githubusercontent.com/34785563/140985547-3f67f273-91cb-4881-800d-b80efa102ab7.jpg)
+![1](https://user-images.githubusercontent.com/34785563/140985547-3f67f273-91cb-4881-800d-b80efa102ab7.jpg)
 
-##![2](https://user-images.githubusercontent.com/34785563/140985624-bb24a9e1-5410-49ff-8ece-d360cd11705f.jpg)
+![2](https://user-images.githubusercontent.com/34785563/140985624-bb24a9e1-5410-49ff-8ece-d360cd11705f.jpg)
+
+
 
 
 ## Use of Statistical Tests ( 2-Sample T-test, Chi-Square Independence Test)
 
 -From 2-Sample T test, we observe few Secondary columns are insignificant. Again of course, banks can't afford to drop Secondary Account information, so we'll have to combine the Primary and Secondary Account information.
 
+##![3](https://user-images.githubusercontent.com/34785563/140985760-1065b330-3015-45ca-a015-2f9ba7583dc5.jpg)
+
+
 ## 
 
 
 ## Confusion Matrices 
+
+## ADA-BOOST MODEL 
+
+![7-AdaBoost](https://user-images.githubusercontent.com/34785563/140985900-c4f9d251-d1c7-4c7a-9c78-999fe7ae5d62.png)
+
+
+![4-ada](https://user-images.githubusercontent.com/34785563/140985831-f1124816-92cb-4421-914e-42b558e9dc15.jpg)
+
+
+
 
 ## XG-BOOST Model
 
