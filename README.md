@@ -6,23 +6,26 @@
 
 
 
-## Important  INSIGHTS
+# Important  INSIGHTS
 
-# Use of Statistical Tests ( 2-Sample T-test, Chi-Square Independence Test)
+## Use of Statistical Tests ( 2-Sample T-test, Chi-Square Independence Test)
 
 -From 2-Sample T test, we observe few Secondary columns are insignificant. Again of course, banks can't afford to drop Secondary Account information, so we'll have to combine the Primary and Secondary Account information.
 
+## 
 
 
-# Confusion Matrices 
+## Confusion Matrices 
 
-# XG-BOOST Model
+## XG-BOOST Model
 
 ![XG-BOOST](https://user-images.githubusercontent.com/34785563/140956690-e406fe9d-d6f4-48a9-b014-d572bfdae55c.png)
 
-# Light Gradient Boost Model
+## Light Gradient Boost Model
 
 ![5-Light Gradient boost](https://user-images.githubusercontent.com/34785563/140979563-0737b50a-c2b0-4f52-8757-a0c62e5784a2.png)
 
 
+## Scorecard of Different models used
 
+![scorecard](https://user-images.githubusercontent.com/34785563/140981991-b0962df2-d539-4a16-bf6b-f2d5f8de1449.png)
