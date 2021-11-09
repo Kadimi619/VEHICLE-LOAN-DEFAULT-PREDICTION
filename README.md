@@ -8,6 +8,11 @@
 
 ## Important  INSIGHTS
 
+# Made use of Satistical Tests ( 2-Sample T-test, Chi-Square Independence Test)
+
+-From 2-Sample T test, we observe few Secondary columns are insignificant. Again of course, banks can't afford to drop Secondary Account information, so we'll have to combine the Primary and Secondary Account information.
+
+
 
 ## Confusion Matrices 
 
